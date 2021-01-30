@@ -1,3 +1,0 @@
-# GitLab de notre Projet Tutoré S4.
-
-...
